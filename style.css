@@ -1,0 +1,24 @@
+
+
+body{
+    padding-top: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#passwordform{
+    height: auto;
+    width: 250px;
+}
+
+#clientform{
+    height: auto;
+    width: 350px;
+}
+
+#mainContainer {
+    margin-left: 50px;
+    margin-right: 50px;
+}
